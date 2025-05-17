@@ -46,3 +46,18 @@ sudo dpkg -i ./containerd.io_<version>_<arch>.deb \
 ```
 
 ## Run The Edited Command Line
+
+## Installation Status Query
+Confirm if the installation was succesful or not, by running the code below
+
+```
+sudo service docker start
+sudo docker run hello-world
+```
+
+# All Done
+
+Reference (https://docs.docker.com/engine/install/ubuntu/#install-from-a-package)
+
+Kindly follow me on [twitter](https://x.com/journeyer_dunya) for more hacks & updates.
+
