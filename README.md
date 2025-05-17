@@ -48,7 +48,7 @@ sudo dpkg -i ./containerd.io_<version>_<arch>.deb \
 ## Run The Edited Command Line
 
 ## Installation Status Query
-Confirm if the installation was succesful or not, by running the code below
+Confirm if the installation was succesful or not, by running the code below.
 
 ```
 sudo service docker start
