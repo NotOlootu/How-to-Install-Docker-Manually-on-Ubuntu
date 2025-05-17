@@ -30,12 +30,12 @@ You should have something similar to the picture below
 
 Thereafter, use "cd" and "ls" to locate your download directory (where you downloaded the docker files to).
 
-You can watch the video on my twitter page for further guidance on this.
+You can watch the video on my [youtube](https://youtu.be/BECeNdvv74o) page for further guidance on this.
 
 ## Copy and Edit The Insallatiion Command In Notepad (To Suit The Version of Docker Files Downloaded)
 Copy, paste and edit the command below in a notepad.
 
-Watch this video on my twitter page to confirm how to edit the command line below
+Watch this video on my [youtube](https://youtu.be/BECeNdvv74o) page to confirm how to edit the command line below
 
 ```
 sudo dpkg -i ./containerd.io_<version>_<arch>.deb \
