@@ -16,6 +16,22 @@ Download the listed files
 
 ![image](https://github.com/user-attachments/assets/918b6f93-e92f-46f3-94f1-322f7296e3f9)
 
+## Change The Default Installation Directory of Ubuntu To The Download Directory
+Use the command below to mount your local storage
+
+```
+cd /mnt
+ls
+```
+
+You should have something similar to the picture below
+
+![image](https://github.com/user-attachments/assets/38f7d21e-27f8-489d-908b-cfffbc6f1e5c)
+
+Thereafter, use "cd" and "ls" to locate your download directory (where you downloaded the docker files to).
+
+You can watch the video on my twitter page for further guidance on this.
+
 ## Copy and Edit The Insallatiion Command In Notepad (To Suit The Version of Docker Files Downloaded)
 Copy, paste and edit the command below in a notepad.
 
